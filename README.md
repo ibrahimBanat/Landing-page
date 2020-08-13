@@ -21,3 +21,7 @@ first open your browser
 seconed you click `ctrl+o`
 third you navigate to your index.html
 click on it 
+
+## Deployment 
+
+you can view the project [here](https://ibrahimbanat.github.io/Landing-page/)
